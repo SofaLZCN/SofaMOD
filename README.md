@@ -2,6 +2,8 @@
 
 SofaMOD 是一个恐鬼症（Phasmophobia）的模组，它可以让你通过修改游戏文件，实现沙发穿越的效果。
 
+沙发模组制作是属于开源项目，但是由于制作软件受限制，所以不作开源，如果获取资源请到Releases新版本资源
+
 ## 安装步骤
 
 * 将下载的 sharedassets4.assets 文件放入到文件夹中的 Phasmophobia_Data 这个项目的下面，选择替换掉里面的文件，详细可以观看视频[恐鬼症安装沙发模组教程] ，或者文件夹里面的说明。
@@ -31,6 +33,8 @@ Copyright &copy;  SofaMOD 团队制作
 # SofaMOD Installation Guide
 
 SofaMOD is a mod for Phasmophobia, which allows you to achieve the effect of sofa crossing by modifying the game files.
+
+Sofa module production is an open source project. However, due to restrictions on the production software, it is not open source. If you want to obtain resources, please go to Releases for new version resources.
 
 ## Installation Steps
 
